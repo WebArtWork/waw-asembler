@@ -1,2 +1,2 @@
-# waw-asembler
+# waw-assembler
 Build template from widgets
