@@ -1,0 +1,12 @@
+{
+    "name": "Assembler",
+    "router": "index.js",
+    "crud": [{
+		"name": "widget",
+		"update": {
+			"keys": ["html", "variables"]
+		},
+		"delete": [""]
+    }],
+    "dependencies": {}
+}
