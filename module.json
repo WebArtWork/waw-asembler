@@ -8,5 +8,6 @@
 		},
 		"delete": [""]
     }],
-    "dependencies": {}
+    "dependencies": {},
+	"repo": "https://github.com/WebArtWork/waw-assembler.git"
 }
